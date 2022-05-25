@@ -20,13 +20,13 @@
 
 [Site de buscas](https://www.bing.com/)
 
-[Letra das músicas]([Guns N' Roses - LETRAS.MUS.BR](https://www.letras.mus.br/guns-n-roses/))
+[Letra das músicas](https://www.letras.mus.br/guns-n-roses/)
 
 
 
 
 
-Desafio de Projeto do Curso de formação DIO da TQI Fullstack Developer :joy:
+Desafio de Projeto do Curso de formação DIO da TQI Fullstack Developer 😊
 
 
 
