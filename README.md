@@ -1,2 +1,3 @@
-# Letra-de-M-sica
-Letra de música referente primeiro desafio DIO
+# **Letra de Música da Banda Guns N Roses** 🎵 🎸
+
+## Letra original referente primeiro desafio DIO
