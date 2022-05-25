@@ -1,10 +1,32 @@
-# **Letra de Música da Banda Guns N Roses** 🎵 🎸
+# **Principais Músicas da Banda Guns N Roses** 🎵 🎸
 
-## *Letra original referente primeiro desafio DIO*
+## *Letra das músicas*
+
+* November Rain
+
+
+* Used to Love Her
+
+* Paradise City
+
+* Yesterdays
+
+* You Could Be Mine
+
+  ​
 
 ###### Fonte de pesquisa 
 [Emojis Markedown](https://github.com/markdown-templates/markdown-emojis)
 
 [Site de buscas](https://www.bing.com/)
 
-****Curso de formação da TQI Fullstack Developer****
+[Letra das músicas]([Guns N' Roses - LETRAS.MUS.BR](https://www.letras.mus.br/guns-n-roses/))
+
+
+
+
+
+#####*Desafio de Projeto do Curso de formação DIO da TQI Fullstack Developer* :joy:
+
+
+
