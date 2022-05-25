@@ -26,7 +26,7 @@
 
 
 
-#####*Desafio de Projeto do Curso de formação DIO da TQI Fullstack Developer* :joy:
+Desafio de Projeto do Curso de formação DIO da TQI Fullstack Developer :joy:
 
 
 
